@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-project/static/css/main.ca0014a9.css",
+    "main.js": "/portfolio-project/static/js/main.88128404.js",
+    "static/js/787.274747c8.chunk.js": "/portfolio-project/static/js/787.274747c8.chunk.js",
+    "static/media/background-sunset-hawaii.jpg": "/portfolio-project/static/media/background-sunset-hawaii.cc5b5fa6bf010fc0a4a5.jpg",
+    "index.html": "/portfolio-project/index.html",
+    "main.ca0014a9.css.map": "/portfolio-project/static/css/main.ca0014a9.css.map",
+    "main.88128404.js.map": "/portfolio-project/static/js/main.88128404.js.map",
+    "787.274747c8.chunk.js.map": "/portfolio-project/static/js/787.274747c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca0014a9.css",
+    "static/js/main.88128404.js"
+  ]
+}
