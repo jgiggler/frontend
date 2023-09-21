@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/frontend/static/css/main.935bb3ce.css",
+    "main.js": "/frontend/static/js/main.68bd8652.js",
+    "static/js/787.274747c8.chunk.js": "/frontend/static/js/787.274747c8.chunk.js",
+    "static/media/background-sunset-hawaii.jpg": "/frontend/static/media/background-sunset-hawaii.cc5b5fa6bf010fc0a4a5.jpg",
+    "index.html": "/frontend/index.html",
+    "main.935bb3ce.css.map": "/frontend/static/css/main.935bb3ce.css.map",
+    "main.68bd8652.js.map": "/frontend/static/js/main.68bd8652.js.map",
+    "787.274747c8.chunk.js.map": "/frontend/static/js/787.274747c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.935bb3ce.css",
+    "static/js/main.68bd8652.js"
+  ]
+}
